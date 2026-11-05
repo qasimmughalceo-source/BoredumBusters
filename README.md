@@ -24,11 +24,11 @@ Search `index.html` for these placeholders and replace them:
 
 | Placeholder | Replace with |
 |---|---|
-| `[STUDIO EMAIL]` | Studio email address (appears in the hero and footer) |
-| `[STUDIO PHONE]` | Phone or WhatsApp number (hero and footer) |
-| `[@HANDLE]` | Social media handle |
-| `[GAME TITLE 01]`, `02`, `03` | Real game names in the "Games we're building" cards |
-| `[XX]%` | Build progress for each game card |
+| `Boredumbusters@gmail.com` | Studio email address (appears in the hero and footer) |
+| `+923224165064` | Phone or WhatsApp number (hero and footer) |
+| `@Boredumbusters` | Social media handle |
+| `Monopoly`, `The Summit`, `Comming soon` | Real game names in the "Games we're building" cards |
+| `[50]%` | Build progress for each game card |
 | `href="#" data-store="App Store"` | Your App Store link, replacing the `#` |
 | `href="#" data-store="Google Play"` | Your Google Play link, replacing the `#` |
 
